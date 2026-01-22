@@ -175,7 +175,10 @@ Here are some ideas to get you started:
 
 ###
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=daysky)
+
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=daysky" alt="Jokes Cards"/>
+</div>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=50&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
