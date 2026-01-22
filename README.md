@@ -32,13 +32,16 @@ Here are some ideas to get you started:
 </div>
 
 ###
-<div align="center">
-  <img height="150" src="/images/me.gif"  />
-</div>
+<div style="display: flex">
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center" style="flex:1;">hey there 👋</h1>
+
+<div align="center"  style="flex:1;">
+  <img height="150" src="/images/me.gif"  />
+</div>
+</div>
 
 ###
 
