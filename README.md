@@ -1,5 +1,7 @@
 <!-- ## Hi there 👋  -->
-![Header](./images/header.png)
+![Header](./images/header.png)<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=daysky)
 <!--
 **am-ramona/am-ramona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
