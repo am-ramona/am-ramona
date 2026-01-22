@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img height="150" src="/images/me.gif"  />
-</div>
-
 ###
 
 <div align="center">
@@ -33,6 +29,11 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=am-ramona.am-ramona&right_color=maroon"  />
+</div>
+
+###
+<div align="center">
+  <img height="150" src="/images/me.gif"  />
 </div>
 
 ###
