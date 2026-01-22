@@ -36,8 +36,8 @@ My name is **Ramona** and I am a software engineer, from **Lebanon** 🇱🇧
 - 🔭 Fullstack Blockchain Engineer at **KPK** (formerly KarpatKey)  
 - 🏗 Previously at **Advanced Blockchain** & **Composable Foundation** 
 - 📚 Currently learning **Solidity**
-- 🐞 Creating bugs since 2012
--  ⚡ In my free time, I play music, sing, or design unique jewelry
+- 🐞 Creating bugs since **2012**
+-  ⚡ In my free time, I play music, sing, hike in nature or design unique jewelry
 
 <!-- ---
 
