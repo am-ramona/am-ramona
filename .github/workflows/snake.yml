@@ -32,3 +32,16 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+       - name: Check token source (diagnostic)
+        if: needs.generate.outputs.skip != 'true'
+        run: |
+          if [ -n "${{ secrets.MY_TOKEN }}" ]; then
+            echo "Using custom secret: MY_TOKEN"
+          else
+            echo "Using built-in GITHUB_TOKEN"
+          fi
+        shell: bash
+
+
+        
