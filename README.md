@@ -1,6 +1,5 @@
 ![Header](./images/header.png)
 
-
 <p align="center">
 <a href="mailto:ramona.abimoussa@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
@@ -20,8 +19,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=am-ramona.am-ramona&right_color=maroon" />
 </p>
 
-
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 <div align="center">
   <img height="150" src="./images/me.gif"  />
@@ -34,10 +32,10 @@
 My name is **Ramona** and I am a software engineer, from **Lebanon** 🇱🇧
 
 - 🔭 Fullstack Blockchain Engineer at **KPK** (formerly KarpatKey)  
-- 🏗 Previously at **Advanced Blockchain** & **Composable Foundation** 
+- 🏗 Previously at **Advanced Blockchain** & **Composable Foundation**
 - 📚 Currently learning **Solidity**
 - 🐞 Creating bugs since **2012**
--  ⚡ In my free time, I play music, sing, hike in nature or design unique jewelry
+- ⚡ In my free time, I play music, sing, hike in nature or design unique jewelry
 
 <!-- ---
 
@@ -67,7 +65,6 @@ My name is **Ramona** and I am a software engineer, from **Lebanon** 🇱🇧
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
 
-
 ### Databases
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
@@ -75,7 +72,6 @@ My name is **Ramona** and I am a software engineer, from **Lebanon** 🇱🇧
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
-
 
 ### DevOps & Cloud
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
@@ -85,14 +81,12 @@ My name is **Ramona** and I am a software engineer, from **Lebanon** 🇱🇧
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" />
 
-
 ### Testing & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" />
 <img src="https://skillicons.dev/icons?i=git" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-
 
 --- -->
 
@@ -108,7 +102,6 @@ My name is **Ramona** and I am a software engineer, from **Lebanon** 🇱🇧
 <img src="https://readme-jokes.vercel.app/api?theme=daysky" alt="Jokes Card" />
 </div>
 
-
-###### ⭐ Keep an eye! Readme.md is still under development.
+###### ⭐ Keep an eye! My awesome Readme.md is still under development
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=50&section=footer&color=gradient)
