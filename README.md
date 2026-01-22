@@ -106,6 +106,6 @@ My name is **Ramona** and I am a software engineer, from **Lebanon** 🇱🇧
 <img src="https://readme-jokes.vercel.app/api?theme=daysky" alt="Jokes Card" />
 </div>
 
-###### ⭐ Keep an eye! My awesome Readme.md is still under development
+###### ⭐ Keep an eye! My awesome **Readme.md** is still under development
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=50&section=footer&color=gradient)
