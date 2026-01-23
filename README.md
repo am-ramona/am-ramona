@@ -121,7 +121,7 @@ architecture: ["microservices", "event-driven", "design system pattern"], -->
 ## 😂 Daily Dev Joke
 
 <div align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=daysky" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
 ###### ⭐ Keep an eye! My awesome **Readme.md** is still under development
