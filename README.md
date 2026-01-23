@@ -32,14 +32,32 @@
 <!-- --- -->
 
 ## 👩‍💻 About Me
+<!-- ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdqMXcyNHV4cXh0MXB5ajNmdzFuZWM4aml4dmV3OXBqZHVmcHhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m51urFH0gnqhHZt3bU/giphy.gif" width="50"> -->
 
-My name is **Ramona** and I am a software engineer, from **Lebanon** 🇱🇧
+My name is **Ramona** and I am a software engineer, from **Lebanon** 🇱🇧 with a unique blend of **Computer Science**, **Rehabilitation Psychology**, and **Product Management** knowledge gained through Meta’s Full Stack Product Management Leadership program, where I placed 3rd among 500 learners in the Middle East.
 
 - 🔭 Fullstack Blockchain Engineer at **KPK** (formerly KarpatKey)  
 - 🏗 Previously at **Advanced Blockchain** & **Composable Foundation**
 - 📚 Currently learning **Solidity**
 - 🐞 Creating bugs since **2012**
 - ⚡ In my free time, I play music, sing, hike in nature or design unique jewelry
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const ramona = {
+  pronouns: "she" | "her",
+  techCommunities: { 
+                        coactivator: "SiHer DAO",
+                        scholar: "SheFi"
+                      },
+  learning: "The Blockchain Bootcamp"
+}
+```
+
+<!-- code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+architecture: ["microservices", "event-driven", "design system pattern"], -->
 
 <!-- ---
 
