@@ -49,7 +49,7 @@ const ramona = {
   pronouns: "she" | "her",
   techCommunities: { 
                         coactivator: "SiHer DAO",
-                        scholar: "SheFi"
+                        member: "SheFi"
                       },
   learning: "The Blockchain Bootcamp"
 }
