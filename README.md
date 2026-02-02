@@ -40,7 +40,7 @@ My name is **Ramona** and I am a software engineer, from **Lebanon** 🇱🇧 wi
 - 🏗 Previously at **Advanced Blockchain** & **Composable Foundation**
 - 📚 Currently learning **Solidity**
 - 🐞 Creating bugs since **2012**
-- ⚡ In my free time, I play music, sing, hike in nature or design unique jewelry
+- ⚡ In my free time, I play music, sing, hike in nature or design unique, self-expressive jewelry
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
