@@ -42,14 +42,22 @@ My name is **Ramona** and I am a software engineer, from **Lebanon** 🇱🇧 wi
 - 🐞 Creating bugs since **2012**
 - ⚡ In my free time, I play music, sing, hike in nature or design unique, self-expressive jewelry
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me  
 
 ```javascript
 const ramona = {
   pronouns: "she" | "her",
+  code: {
+    Web3AndOnChainSystems: [Ethereum, Smart Contracts, Ethers.js, Wagmi, Viem, Web3.js, Safe, Zodiac, IPFS, Subsquid, Polkadot.js, The Graph, Chainlink, Oracles, Layer 2s (Optimism, Arbitrum), EVM & Non-EVM ecosystem exposure, WalletConnect, SIWE, Solidity, Hardhat, OpenZeppelin, Smart contract interaction],
+    FrontendArchitectureAndPerformance: [React, Next.js, TypeScript, SSR/SSG, TanStack / React Query, CSS preprocessors (Sass, Less) / ShadCN / TailwindCSS / MaterialUI, Component-Driven Design Systems, UI Architecture, State Management, Accessibility (WCAG, ARIA), Design Tools (Sketch, Figma-to-Code Workflows), Responsive Design, Cross Browser Compatibility, Performance Optimization (Core Web Vitals), Performance Monitoring (Lighthouse, WebPagetest)],
+    BackendAndDataIntegration: [Node.js, Express, REST APIs, GraphQL, PostgreSQL,  API Design & Integration,  Sequelize / SQLite,  Authentication,  Redis,  WebSockets],
+    EngineeringQualityAndDelivery: [Jest,  Cypress,  Playwright,  Storybook,  ESlint,  Prettier,  Biome,  CI/CD,  Docker,  Git,  Agile / PMI-trained delivery],
+    CloudAndDevOps: [AWS,  GCP,  Cloud Migration,  Microservices Architecture]
+  }
   techCommunities: { 
                         coactivator: "SiHer DAO",
-                        member: "SheFi"
+                        member: "SheFi",
+                        learner: "dApp University"
                       },
   learning: "The Blockchain Bootcamp"
 }
@@ -59,11 +67,10 @@ const ramona = {
 tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
 architecture: ["microservices", "event-driven", "design system pattern"], -->
 
-<!-- ---
-
-## 🛠 I code with
+<!-- ## 🛠 I code with
 
 ### Frontend
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
@@ -76,10 +83,12 @@ architecture: ["microservices", "event-driven", "design system pattern"], -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" />
 
 ### Web3
+
 <img src="https://skillicons.dev/icons?i=solidity" height="40" />
 <img src="https://skillicons.dev/icons?i=ethereum" height="40" />
 
 ### Backend
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
 <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" />
@@ -88,6 +97,7 @@ architecture: ["microservices", "event-driven", "design system pattern"], -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
 
 ### Databases
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
@@ -96,6 +106,7 @@ architecture: ["microservices", "event-driven", "design system pattern"], -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
 
 ### DevOps & Cloud
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" />
@@ -104,19 +115,16 @@ architecture: ["microservices", "event-driven", "design system pattern"], -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" />
 
 ### Testing & Tools
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" />
 <img src="https://skillicons.dev/icons?i=git" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
 
---- -->
+## 🔥 My Activity
 
-<!-- ## 🔥 My Activity
-
-![Snake animation](https://raw.githubusercontent.com/am-ramona/am-ramona/output/snake.svg)
-
---- -->
+![Snake animation](https://raw.githubusercontent.com/am-ramona/am-ramona/output/snake.svg) -->
 
 ## 😂 Daily Dev Joke
 
@@ -127,3 +135,22 @@ architecture: ["microservices", "event-driven", "design system pattern"], -->
 ###### ⭐ Keep an eye! My awesome **Readme.md** is still under development
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=50&section=footer&color=gradient)
+
+<!-- Hi, I'm Ramona 👋
+Senior Web3 Full-Stack Engineer (Frontend-Focused)
+
+I build production Web3 and DAO platforms where frontend architecture, performance, and UX directly affect trust and security.
+
+Recent work:
+• DAO treasury platform (Safe + Zodiac)
+• Web3 trading interfaces
+• SaaS migration with 30–40% performance gains
+
+Tech:
+Next.js • TypeScript • Wagmi • Ethers.js • GraphQL • PostgreSQL • AWS
+
+Currently deepening:
+Solidity security patterns • Real-time systems • Web3 infrastructure
+
+📍 Beirut, Lebanon — Open to remote
+🌐 ramonaabimoussa.com -->
