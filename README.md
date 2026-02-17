@@ -23,7 +23,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=am-ramona.am-ramona&right_color=maroon" />
 </p>
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
   <img height="150" src="./images/me.gif"  />
@@ -48,18 +48,37 @@ My name is **Ramona** and I am a software engineer, from **Lebanon** 🇱🇧 wi
 const ramona = {
   pronouns: "she" | "her",
   code: {
-    Web3AndOnChainSystems: [Ethereum, Smart Contracts, Ethers.js, Wagmi, Viem, Web3.js, Safe, Zodiac, IPFS, Subsquid, Polkadot.js, The Graph, Chainlink, Oracles, Layer 2s (Optimism, Arbitrum), EVM & Non-EVM ecosystem exposure, WalletConnect, SIWE, Solidity, Hardhat, OpenZeppelin, Smart contract interaction],
-    FrontendArchitectureAndPerformance: [React, Next.js, TypeScript, SSR/SSG, TanStack / React Query, CSS preprocessors (Sass, Less) / ShadCN / TailwindCSS / MaterialUI, Component-Driven Design Systems, UI Architecture, State Management, Accessibility (WCAG, ARIA), Design Tools (Sketch, Figma-to-Code Workflows), Responsive Design, Cross Browser Compatibility, Performance Optimization (Core Web Vitals), Performance Monitoring (Lighthouse, WebPagetest)],
-    BackendAndDataIntegration: [Node.js, Express, REST APIs, GraphQL, PostgreSQL,  API Design & Integration,  Sequelize / SQLite,  Authentication,  Redis,  WebSockets],
-    EngineeringQualityAndDelivery: [Jest,  Cypress,  Playwright,  Storybook,  ESlint,  Prettier,  Biome,  CI/CD,  Docker,  Git,  Agile / PMI-trained delivery],
-    CloudAndDevOps: [AWS,  GCP,  Cloud Migration,  Microservices Architecture]
-  }
+    "Web3 & On-Chain Systems": [Ethereum, Smart Contracts, Ethers.js, Wagmi, Viem, Web3.js, Safe, Zodiac, IPFS, Subsquid, Polkadot.js, The Graph, Chainlink, Oracles, Layer 2s (Optimism, Arbitrum), EVM & Non-EVM ecosystem exposure, WalletConnect, SIWE, Solidity, Hardhat, OpenZeppelin, Smart contract interaction],
+    "Frontend Architecture & Performance": [React, Next.js, TypeScript, SSR/SSG, TanStack / React Query, CSS preprocessors (Sass, Less) / ShadCN / TailwindCSS / MaterialUI, Component-Driven Design Systems, UI Architecture, State Management, Accessibility (WCAG, ARIA), Design Tools (Sketch, Figma-to-Code Workflows), Responsive Design, Cross Browser Compatibility, Performance Optimization (Core Web Vitals), Performance Monitoring (Lighthouse, WebPagetest)],
+    "Backend & Data Integration": [Node.js, Express, REST APIs, GraphQL, PostgreSQL,  API Design & Integration,  Sequelize / SQLite,  Authentication,  Redis,  WebSockets],
+    "Engineering Quality & Delivery": [Jest,  Cypress,  Playwright,  Storybook,  ESlint,  Prettier,  Biome,  CI/CD,  Docker,  Git,  Agile / PMI-trained delivery],
+    "Cloud & DevOps": [AWS,  GCP,  Cloud Migration,  Microservices Architecture]
+        },
+  education: [
+    "Computers Sciences, Bachelor of Science, 2012, Lebanese University",
+    "Rehabilitation Psychology, Masters, 2008, lebanese University"
+              ],
+  publications: "Web3: Sculpting The Middle Eastern Renaissance",
+  achievements: {
+                  "Meta Advanced Developer Product Management Leadership program": "Top-3 Graduate - 94.2% final grade, completed 26 checkpoints in a 500 participant Middle East cohort",
+                  "Testdome: HTML/CSS, Javascript, PHP and SQL (Hard)":"Top-10 Performer - scored 100% across multiple attempts"
+                },
+  selectedCertificates: {
+                          "Web3 and Blockchain Leadership for Transformation": "INSEAD",
+                          "Agile Project Delivery Training Certificate": "Project Management Institute",
+                          "FullStack Blockchain Specialization": "The State University of New York",
+                          "Blockchain Developer Bootcamp": ["dApp University, "In progress", "Hands-on projects: dApp exchange, NFT marketplace, trading bot"]
+                          },
   techCommunities: { 
-                        coactivator: "SiHer DAO",
-                        member: "SheFi",
-                        learner: "dApp University"
+                      coactivator: "SiHer DAO",
+                      activeMember: "SheFi",
+                      learner: "dApp University",
+                      Coorganizer: "Meta Developer Circle",
+                      activeMember: "AWS Beirut Club",
+                      activeMember: "Beirut AI Club",
+                      activeMember: "Agile Beirut Club"
                       },
-  learning: "The Blockchain Bootcamp"
+  currentlyLearning: "solidity" | "smart contract auditing"
 }
 ```
 
