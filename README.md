@@ -31,8 +31,12 @@
 
 <!-- --- -->
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me 
 <!-- ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdqMXcyNHV4cXh0MXB5ajNmdzFuZWM4aml4dmV3OXBqZHVmcHhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m51urFH0gnqhHZt3bU/giphy.gif" width="50"> -->
+
+<p align="center">
+  <a href="https://github.com/am-ramona"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&width=950&lines=I+build+high-performance+production+Web3%2C+trading+and+DAO+platforms;I+design+scalable%2C+performance-critical+frontend+architecture;I+turn+complex+on-chain+logic+into+intuitive%2C+accessible+user+experiences;I+ship+frontend-heavy+Web3+products+with+measurable+performance+and+UX+impact&center=true&height=80&color=e484fc&vCenter=true&size=25" alt="Typing SVG" /></a>
+</p>
 
 My name is **Ramona** and I am a software engineer, from **Lebanon** 🇱🇧 with a unique blend of **Computer Science**, **Rehabilitation Psychology**, and **Product Management** knowledge gained through Meta’s Full Stack Product Management Leadership program, where I placed 3rd among 500 learners in the Middle East.
 
