@@ -43,7 +43,7 @@ My name is **Ramona** and I am a software engineer, from **Lebanon** 🇱🇧 wi
 - 🔭 Fullstack Blockchain Engineer at **KPK** (formerly KarpatKey)  
 - 🏗 Previously at **Advanced Blockchain** & **Composable Foundation**
 - 📚 Currently learning **Solidity**
-- 🐞 Creating bugs since **2012**
+- 🐞 Shipping production apps since **2012**
 - ⚡ In my free time, I play music, sing, hike in nature or design unique, self-expressive jewelry
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me  
@@ -69,10 +69,13 @@ const ramona = {
                                        ESlint,  Prettier,  Biome,  CI/CD,  
                                        Docker,  Git,  Agile / PMI-trained delivery],
     "Cloud & DevOps": [AWS,  GCP,  Cloud Migration,  Microservices Architecture]
-        },
-  education: [
+        }
+}
+```
+
+  <!-- education: [
     "Computers Sciences, Bachelor of Science, 2012, Lebanese University",
-    "Rehabilitation Psychology, Masters, 2008, lebanese University"
+    "Rehabilitation Psychology, Masters, 2008, Lebanese University"
               ],
   publications: "Web3: Sculpting The Middle Eastern Renaissance",
   achievements: {
@@ -95,8 +98,7 @@ const ramona = {
                       activeMember: "Agile Beirut Club"
                       },
   currentlyLearning: "solidity" | "smart contract auditing"
-}
-```
+  } -->
 
 <!-- code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
 tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
