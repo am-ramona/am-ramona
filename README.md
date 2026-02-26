@@ -163,7 +163,7 @@ architecture: ["microservices", "event-driven", "design system pattern"], -->
 
 ![Snake animation](https://raw.githubusercontent.com/am-ramona/am-ramona/output/snake.svg) -->
 
-## 😂 Daily Dev Joke
+## 😄 Daily Dev Joke
 
 <div align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
